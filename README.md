@@ -17,13 +17,13 @@
 
 
 <!--Intro start-->
-        - 🎓 Software engineering student at Concordia University
-        
-        - 🌐 Experience in Full Stack Development
-        
-        - 📫 Always looking for new experiences and mentorships!
-        
-        - 🏠 Don't hesitate to contact me about anything and everything!
+- 🎓 Software engineering student at Concordia University
+
+- 🌐 Experience in Full Stack Development
+
+- 📫 Always looking for new experiences and mentorships!
+
+- 🏠 Don't hesitate to contact me about anything and everything!
 <!--Intro end-->
 
 <!-- Connect with me -->
