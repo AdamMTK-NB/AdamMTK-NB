@@ -1,3 +1,8 @@
+# Hey there! 👋 I'm Adam
+
+![](https://komarev.com/ghpvc/?username=AdamMTK-NB)
+
+
 # 💫 About Me:
 🎓 Software engineering student at Concordia University<br>🌐 Experience in Full Stack Development<br>🤖 Working on my own startup in stealth<br>📫 Software Engineering Intern @ Athena AI(Spring 2025)<br>🏠 Don't hesitate to contact me about anything and everything!
 
