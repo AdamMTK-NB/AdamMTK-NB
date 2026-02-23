@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Adam
 
-![](https://komarev.com/ghpvc/?username=AdamMTK-NB)
+![](https://komarev.com/ghpvc/?username=AdamMTK-NB-s&color=green&style=for-the-badge)
 
 
 # 💫 About Me:
